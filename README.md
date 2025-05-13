@@ -26,11 +26,11 @@ Created an interactive dashboard to visualize and analyze:
 - Price vs. Revenue Overlays
 - Comparison between Tesla and GameStop
 
+![Question 5](https://github.com/user-attachments/assets/ec833b69-343f-4ae3-b770-45fcb5606567)
+
+![Question 6](https://github.com/user-attachments/assets/de41e583-0d0b-467c-a6a8-4571a7eebf79)
+
 ### Results & Insights
 - Visual trends show Tesla's consistent **revenue growth** and **stock price increase**, with notable jumps after quarterly reports.
 - GameStop’s revenue and stock price show **high volatility**, with some spikes likely influenced by **external market events** (e.g., meme stock movement).
 - The dashboard provides a user-friendly way to track key performance indicators (KPIs) and visualize correlations over time.
-
-![Question 5](https://github.com/user-attachments/assets/ec833b69-343f-4ae3-b770-45fcb5606567)
-
-![Question 6](https://github.com/user-attachments/assets/de41e583-0d0b-467c-a6a8-4571a7eebf79)
